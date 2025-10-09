@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/leveragedotfun?s=21",
   "VITE_SEO_SITE_NAME": "Leverage.Fun",
   "VITE_SEO_SITE_DESCRIPTION": "A decentralized perp DEX with up to 100x leverage, built as a crypto prop firm that rewards active traders with funding, contests, and volume-based incentives",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/leveragefun-3438/",
+  "VITE_SEO_SITE_URL": "https://leverage.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@LeverageDotfun",
